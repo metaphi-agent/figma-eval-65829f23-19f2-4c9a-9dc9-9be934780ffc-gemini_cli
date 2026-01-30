@@ -1,0 +1,8 @@
+{
+    "figma_file_key": "96DCv4npJucpXV4leTmPZp",
+    "total_frames": 2,
+    "frames": [
+        {"name": "Dashboard Dark", "node_id": "816:101517", "gt_image": "816-101517.png", "target_route": "/"},
+        {"name": "Dashboard Light", "node_id": "817:165900", "gt_image": "817-165900.png", "target_route": "/light"}
+    ]
+}
